@@ -6,7 +6,7 @@ const todos =
 // console.log(todos);
 
 
-const li1=React.createElement('li',null,todos[0]);
+const li1= <li>Go to market</li>
 const li2=React.createElement('li',null,todos[1]);
 const li3=React.createElement('li',null,todos[2]);
 
